@@ -1,8 +1,8 @@
 # E-Dziennik (Student's Diary / E-Diary)
 
-## Demo:
+## Project preview:
 
-https://media.giphy.com/media/nl0CW1RmUN61hCLXfb/giphy.gif
+![Project preview] (https://media.giphy.com/media/nl0CW1RmUN61hCLXfb/giphy.gif)
 
 ## Purpose
 This application allows you to view, add, edit, delete data about students, their grades, group affiliation and field of their studies, and view their participation in classes. 
