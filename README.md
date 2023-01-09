@@ -2,7 +2,7 @@
 
 ## Project preview:
 
-![Project preview] (https://media.giphy.com/media/nl0CW1RmUN61hCLXfb/giphy.gif)
+![Project preview](https://media.giphy.com/media/nl0CW1RmUN61hCLXfb/giphy.gif)
 
 ## Purpose
 This application allows you to view, add, edit, delete data about students, their grades, group affiliation and field of their studies, and view their participation in classes. 
@@ -23,7 +23,7 @@ Ability to view student's class attendance.
 ## Get started
 There are two ways of getting started with E-Dziennik:
 
-You can use the ![hosted version] (http://psximgjxed.cfolks.pl/). This is the simplest way to test and use it.
+You can use the ![hosted version](http://psximgjxed.cfolks.pl/). This is the simplest way to test and use it.
 
 You can also download all software components and the database (dziennik.sql) from the repository and run the app locally on you computer using Apache like for example Xampp.
 
